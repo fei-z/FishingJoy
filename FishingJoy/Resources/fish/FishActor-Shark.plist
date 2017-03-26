@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>GShark_death_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 197}, {399, 165}}</string>
+			<key>offset</key>
+			<string>{2, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>GShark_death_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {315, 195}}</string>
+			<key>offset</key>
+			<string>{-29, 20}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>GShark_death_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 197}, {267, 195}}</string>
+			<key>offset</key>
+			<string>{-38, 19}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>Shark_death_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1110, 1}, {378, 143}}</string>
+			<key>offset</key>
+			<string>{3, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>Shark_death_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{247, 393}, {294, 174}}</string>
+			<key>offset</key>
+			<string>{-28, 20}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>Shark_death_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 393}, {245, 176}}</string>
+			<key>offset</key>
+			<string>{-39, 19}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{782, 527}, {392, 163}}</string>
+			<key>offset</key>
+			<string>{-3, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{711, 1}, {398, 163}}</string>
+			<key>offset</key>
+			<string>{0, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{542, 363}, {399, 163}}</string>
+			<key>offset</key>
+			<string>{0, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{394, 732}, {393, 163}}</string>
+			<key>offset</key>
+			<string>{-3, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{942, 330}, {382, 163}}</string>
+			<key>offset</key>
+			<string>{-9, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{317, 1}, {393, 164}}</string>
+			<key>offset</key>
+			<string>{-3, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{382, 568}, {399, 163}}</string>
+			<key>offset</key>
+			<string>{0, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{669, 166}, {398, 163}}</string>
+			<key>offset</key>
+			<string>{0, 9}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 746}, {392, 164}}</string>
+			<key>offset</key>
+			<string>{-3, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/GShark_actor_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 570}, {380, 175}}</string>
+			<key>offset</key>
+			<string>{-9, 2}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1325, 320}, {371, 142}}</string>
+			<key>offset</key>
+			<string>{-3, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{788, 834}, {377, 142}}</string>
+			<key>offset</key>
+			<string>{0, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{788, 691}, {377, 142}}</string>
+			<key>offset</key>
+			<string>{1, 7}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1166, 834}, {372, 142}}</string>
+			<key>offset</key>
+			<string>{-3, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1547, 463}, {360, 142}}</string>
+			<key>offset</key>
+			<string>{-8, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1166, 691}, {372, 142}}</string>
+			<key>offset</key>
+			<string>{-3, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1489, 1}, {378, 142}}</string>
+			<key>offset</key>
+			<string>{0, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1489, 144}, {377, 142}}</string>
+			<key>offset</key>
+			<string>{0, 9}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1175, 494}, {371, 142}}</string>
+			<key>offset</key>
+			<string>{-3, 8}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+		<key>move/Shark_actor_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1068, 165}, {359, 154}}</string>
+			<key>offset</key>
+			<string>{-9, 1}</string>
+			<key>sourceSize</key>
+			<string>{450, 250}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>realTextureFileName</key>
+		<string>FishActor-Shark.png</string>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:5c48cfd32dd8e720d8ab7260072632fb$</string>
+		<key>textureFileName</key>
+		<string>FishActor-Shark.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Effect_swenpon1_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{263, 1931}, {85, 92}}</string>
+			<key>offset</key>
+			<string>{1, -290}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{112, 1629}, {90, 124}}</string>
+			<key>offset</key>
+			<string>{-2, -283}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1937}, {93, 110}}</string>
+			<key>offset</key>
+			<string>{3, -287}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{95, 1937}, {100, 104}}</string>
+			<key>offset</key>
+			<string>{-5, -289}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{203, 1629}, {93, 121}}</string>
+			<key>offset</key>
+			<string>{-1, -283}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 1622}, {88, 121}}</string>
+			<key>offset</key>
+			<string>{-1, -287}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{297, 1622}, {87, 126}}</string>
+			<key>offset</key>
+			<string>{1, -285}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{414, 1920}, {83, 119}}</string>
+			<key>offset</key>
+			<string>{0, -290}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{799, 791}, {52, 79}}</string>
+			<key>offset</key>
+			<string>{-1, -285}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1448}, {110, 306}}</string>
+			<key>offset</key>
+			<string>{-1, -193}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{853, 875}, {147, 736}}</string>
+			<key>offset</key>
+			<string>{-1, 7}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 726}, {250, 721}}</string>
+			<key>offset</key>
+			<string>{0, 14}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {250, 724}}</string>
+			<key>offset</key>
+			<string>{0, 13}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{252, 723}, {250, 721}}</string>
+			<key>offset</key>
+			<string>{0, 14}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{754, 1}, {250, 721}}</string>
+			<key>offset</key>
+			<string>{0, 14}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{503, 1}, {250, 721}}</string>
+			<key>offset</key>
+			<string>{0, 14}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{252, 1}, {250, 721}}</string>
+			<key>offset</key>
+			<string>{0, 14}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{503, 723}, {161, 721}}</string>
+			<key>offset</key>
+			<string>{-7, 14}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_027.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{605, 1912}, {106, 86}}</string>
+			<key>offset</key>
+			<string>{0, -288}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_028.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{498, 1920}, {106, 86}}</string>
+			<key>offset</key>
+			<string>{0, -288}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_029.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{736, 1607}, {96, 84}}</string>
+			<key>offset</key>
+			<string>{-1, -283}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_030.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 723}, {96, 83}}</string>
+			<key>offset</key>
+			<string>{-1, -283}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_031.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 874}, {96, 66}}</string>
+			<key>offset</key>
+			<string>{-1, -287}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_032.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{665, 807}, {96, 66}}</string>
+			<key>offset</key>
+			<string>{-1, -287}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_033.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{573, 2007}, {34, 37}}</string>
+			<key>offset</key>
+			<string>{6, -301}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_034.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{498, 2007}, {31, 39}}</string>
+			<key>offset</key>
+			<string>{5, -302}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_035.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{608, 1999}, {31, 41}}</string>
+			<key>offset</key>
+			<string>{5, -301}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_036.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{608, 1999}, {31, 41}}</string>
+			<key>offset</key>
+			<string>{5, -301}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>Effect_swenpon1_037.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 2027}, {24, 15}}</string>
+			<key>offset</key>
+			<string>{1, -292}</string>
+			<key>sourceSize</key>
+			<string>{250, 750}</string>
+		</dict>
+		<key>sweapon_bullet_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{799, 968}, {37, 32}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{37, 32}</string>
+		</dict>
+		<key>sweapon_bullet_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{799, 935}, {38, 32}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{38, 32}</string>
+		</dict>
+		<key>sweapon_bullet_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{640, 1999}, {38, 32}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{38, 32}</string>
+		</dict>
+		<key>sweapon_bullet_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{530, 2007}, {42, 37}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{42, 37}</string>
+		</dict>
+		<key>weapon_bullet_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{799, 871}, {51, 63}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>sourceSize</key>
+			<string>{66, 95}</string>
+		</dict>
+		<key>weapon_bullet_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{799, 723}, {53, 67}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{66, 95}</string>
+		</dict>
+		<key>weapon_bullet_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{958, 1754}, {56, 74}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>sourceSize</key>
+			<string>{66, 95}</string>
+		</dict>
+		<key>weapon_bullet_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{899, 1754}, {58, 78}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>sourceSize</key>
+			<string>{66, 95}</string>
+		</dict>
+		<key>weapon_bullet_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{838, 1754}, {60, 82}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>sourceSize</key>
+			<string>{66, 95}</string>
+		</dict>
+		<key>weapon_bullet_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{349, 1931}, {64, 89}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{66, 95}</string>
+		</dict>
+		<key>weapon_bullet_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 1931}, {66, 95}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{66, 95}</string>
+		</dict>
+		<key>weapon_net_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{474, 1615}, {130, 133}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>weapon_net_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{712, 1900}, {140, 142}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{146, 146}</string>
+		</dict>
+		<key>weapon_net_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{853, 723}, {148, 151}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceSize</key>
+			<string>{156, 156}</string>
+		</dict>
+		<key>weapon_net_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{527, 1749}, {161, 162}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{165, 165}</string>
+		</dict>
+		<key>weapon_net_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 1445}, {168, 169}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>sourceSize</key>
+			<string>{173, 173}</string>
+		</dict>
+		<key>weapon_net_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{292, 1445}, {176, 176}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceSize</key>
+			<string>{181, 181}</string>
+		</dict>
+		<key>weapon_net_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{112, 1448}, {179, 180}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{183, 184}</string>
+		</dict>
+		<key>weapon_snet_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{605, 1615}, {130, 132}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{136, 136}</string>
+		</dict>
+		<key>weapon_snet_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{853, 1612}, {140, 141}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{146, 146}</string>
+		</dict>
+		<key>weapon_snet_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{689, 1748}, {148, 151}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceSize</key>
+			<string>{156, 156}</string>
+		</dict>
+		<key>weapon_snet_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{638, 1445}, {160, 161}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{165, 165}</string>
+		</dict>
+		<key>weapon_snet_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{358, 1749}, {168, 170}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{173, 173}</string>
+		</dict>
+		<key>weapon_snet_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 1754}, {176, 176}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>sourceSize</key>
+			<string>{181, 181}</string>
+		</dict>
+		<key>weapon_snet_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1755}, {179, 181}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{183, 184}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>realTextureFileName</key>
+		<string>Item-chaojiwuqi-ipadhd.png</string>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:48ee7d204a38888dc9e489a61737a749$</string>
+		<key>textureFileName</key>
+		<string>Item-chaojiwuqi-ipadhd.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Lantern_death_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{337, 364}, {158, 68}}</string>
+			<key>offset</key>
+			<string>{5, 7}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>Lantern_death_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{176, 223}, {173, 65}}</string>
+			<key>offset</key>
+			<string>{-2, 3}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>Lantern_death_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{190, 1}, {188, 74}}</string>
+			<key>offset</key>
+			<string>{-6, -8}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>Lantern_death_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{350, 223}, {159, 74}}</string>
+			<key>offset</key>
+			<string>{7, -6}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>Lantern_death_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{156, 433}, {155, 65}}</string>
+			<key>offset</key>
+			<string>{8, 7}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 433}, {154, 76}}</string>
+			<key>offset</key>
+			<string>{8, 13}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 289}, {165, 78}}</string>
+			<key>offset</key>
+			<string>{2, 12}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 171}, {174, 70}}</string>
+			<key>offset</key>
+			<string>{-4, 6}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{186, 155}, {183, 67}}</string>
+			<key>offset</key>
+			<string>{-7, 2}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{190, 76}, {187, 78}}</string>
+			<key>offset</key>
+			<string>{-7, -7}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {188, 84}}</string>
+			<key>offset</key>
+			<string>{-6, -13}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 86}, {184, 84}}</string>
+			<key>offset</key>
+			<string>{-5, -13}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 242}, {169, 85}}</string>
+			<key>offset</key>
+			<string>{2, -11}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 328}, {163, 76}}</string>
+			<key>offset</key>
+			<string>{5, -3}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+		<key>游动/Lantern_actor_010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{337, 298}, {159, 65}}</string>
+			<key>offset</key>
+			<string>{6, 7}</string>
+			<key>sourceSize</key>
+			<string>{200, 110}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>realTextureFileName</key>
+		<string>FishActor-Mid.png</string>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:18430e7b7d937c9b18eb5f9fcef26fe8$</string>
+		<key>textureFileName</key>
+		<string>FishActor-Mid.png</string>
+	</dict>
+</dict>
+</plist>

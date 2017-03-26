@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>effect_res_gold2_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{192, 173}, {57, 38}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>effect_res_gold2_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 117}, {57, 54}}</string>
+			<key>offset</key>
+			<string>{0, 2}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>effect_res_gold2_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 2}, {57, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>effect_res_gold2_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{197, 61}, {57, 54}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>effect_res_gold2_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 213}, {57, 37}}</string>
+			<key>offset</key>
+			<string>{0, -4}</string>
+			<key>sourceSize</key>
+			<string>{65, 65}</string>
+		</dict>
+		<key>starfish_actor_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 2}, {64, 60}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{64, 60}</string>
+		</dict>
+		<key>starfish_actor_002 .png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{67, 65}, {62, 59}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{62, 59}</string>
+		</dict>
+		<key>starfish_actor_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{131, 125}, {59, 59}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{59, 59}</string>
+		</dict>
+		<key>starfish_actor_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 64}, {62, 59}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{62, 59}</string>
+		</dict>
+		<key>starfish_actor_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2, 64}, {63, 61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{63, 61}</string>
+		</dict>
+		<key>starfish_actor_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{133, 2}, {62, 60}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{62, 60}</string>
+		</dict>
+		<key>starfish_actor_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68, 2}, {63, 61}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>sourceSize</key>
+			<string>{63, 61}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>realTextureFileName</key>
+		<string>Item-GoldStar.png</string>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:a8cbb3fe8954624d080cd951cb8541f1$</string>
+		<key>textureFileName</key>
+		<string>Item-GoldStar.png</string>
+	</dict>
+</dict>
+</plist>
